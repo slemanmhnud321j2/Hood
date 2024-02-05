@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>متجر حطب التدفئة</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+        }
+        header {
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+        }
+        .product {
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>متجر حطب التدفئة</h1>
+            <p>معلومات الاتصال: البريد الإلكتروني، الهاتف</p>
+        </header>
+        <section>
+            <div class="product">
+                <h2>حطب التدفئة</h2>
+                <p>وصف المنتج</p>
+                <button>أضف إلى السلة</button>
+            </div>
+        </section>
+    </div>
+    <script>
+        // يمكنك إضافة البرمجة بلغة JavaScript هنا
+    </script>
+</body>
+</html>
